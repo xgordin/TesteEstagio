@@ -1,0 +1,16 @@
+C:\Users\Marcus\source\repos\TesteEstagio\bin\Debug\net5.0\TesteEstagio.exe
+C:\Users\Marcus\source\repos\TesteEstagio\bin\Debug\net5.0\TesteEstagio.deps.json
+C:\Users\Marcus\source\repos\TesteEstagio\bin\Debug\net5.0\TesteEstagio.runtimeconfig.json
+C:\Users\Marcus\source\repos\TesteEstagio\bin\Debug\net5.0\TesteEstagio.runtimeconfig.dev.json
+C:\Users\Marcus\source\repos\TesteEstagio\bin\Debug\net5.0\TesteEstagio.dll
+C:\Users\Marcus\source\repos\TesteEstagio\bin\Debug\net5.0\ref\TesteEstagio.dll
+C:\Users\Marcus\source\repos\TesteEstagio\bin\Debug\net5.0\TesteEstagio.pdb
+C:\Users\Marcus\source\repos\TesteEstagio\obj\Debug\net5.0\TesteEstagio.csproj.AssemblyReference.cache
+C:\Users\Marcus\source\repos\TesteEstagio\obj\Debug\net5.0\TesteEstagio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\source\repos\TesteEstagio\obj\Debug\net5.0\TesteEstagio.AssemblyInfoInputs.cache
+C:\Users\Marcus\source\repos\TesteEstagio\obj\Debug\net5.0\TesteEstagio.AssemblyInfo.cs
+C:\Users\Marcus\source\repos\TesteEstagio\obj\Debug\net5.0\TesteEstagio.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\TesteEstagio\obj\Debug\net5.0\TesteEstagio.dll
+C:\Users\Marcus\source\repos\TesteEstagio\obj\Debug\net5.0\ref\TesteEstagio.dll
+C:\Users\Marcus\source\repos\TesteEstagio\obj\Debug\net5.0\TesteEstagio.pdb
+C:\Users\Marcus\source\repos\TesteEstagio\obj\Debug\net5.0\TesteEstagio.genruntimeconfig.cache
