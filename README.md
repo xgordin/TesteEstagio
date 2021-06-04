@@ -17,9 +17,9 @@ Processo de funcionamento do sistema
  * Etapas de funcionamento:
   1. Cria os alunos usando um laço
   2. Realiza o cálculo das médias dos alunos, filtra e condiciona as médias atribuindo o valor para os status
-    a. Aprovado = media >=6
-    b. Reprovado = media < 4
-    c. Prova Final
+  - Aprovado = media >=6
+  - Reprovado = media < 4
+  - Prova Final
 
   3. Atribui o valor da Prova Final apenas aos alunos que possuem o status "Prova Final"
   4. Ordena os alunos pelas médias e aplica um laço for nos 5 primeiros indices. Lógicamente, os que possuem as maiores médias
